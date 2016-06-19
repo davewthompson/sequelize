@@ -41,6 +41,7 @@
     "lodash": "4.13.1",
     "moment": "^2.13.0",
     "moment-timezone": "^0.5.4",
+    "msnodesqlv8": "^0.1.45",
     "node-uuid": "~1.4.4",
     "retry-as-promised": "^2.0.0",
     "semver": "^5.0.1",
